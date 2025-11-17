@@ -1,0 +1,57 @@
+.grid-container{
+background-color: greenyellow;
+vertical-align: top;
+}
+
+#nav{
+    color: yellow;
+}
+
+#sect1{
+    color: #0066ff;
+    
+}
+
+#sect2{
+    color: #ff0000;
+}
+
+#sect3{
+    color: #0066ff;
+    
+}
+
+#sect4{
+    color: #ff0000;
+}
+
+#c1 {
+    color: #0066ff;
+}
+
+#c2 {
+
+    color: #ff0000;
+}
+
+#c3 {
+    color: #0066ff;
+}
+
+#c4 {
+    color: #ff0000;
+}
+
+
+
+.blue {
+color: #0066ff;
+}
+
+.red {
+   color: #ff0000;
+}
+
+header {
+    font-size: x-large;
+}
